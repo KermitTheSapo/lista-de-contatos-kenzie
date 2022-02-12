@@ -3,5 +3,5 @@ Lista de contatos criado na live de 6 horas da Kenzie: Faça do ZERO seu primeir
 
 </div>
   <div style="display: inline_block"><br>
-    <img align="center" alt="Exemplo" height="100%" width="100%" src="https://raw.githubusercontent.com/KermitTheSapo/clone-instagram-login/main/img/Screenshot_1.png" />
+    <img align="center" alt="Exemplo" height="100%" width="100%" src="https://raw.githubusercontent.com/KermitTheSapo/lista-de-contatos-kenzie/main/2022-02-12-09-12-25.gif" />
 </div>
